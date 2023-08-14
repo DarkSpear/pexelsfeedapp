@@ -37,9 +37,9 @@ struct PexelsImageView: View {
     
     func imagePlaceholder() -> some View {
         if let color = Color(hex: pexelImage.color) {
-            color
+            return color
         } else {
-            Color.gray
+            return Color.gray
         }
     }
 }
