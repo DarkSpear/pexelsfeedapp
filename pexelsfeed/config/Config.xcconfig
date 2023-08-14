@@ -1,0 +1,13 @@
+//
+//  Config.xcconfig
+//  pexelsfeed
+//
+//  Created by Andrey Chipilenko on 13.08.2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APPLICATION_NAME = Pexels Feed
+API_URL = api.pexels.com
+API_KEY = 2rEwOuy7Io3RQlIDV1Epu4FZzWnCYivgY8lMjyyM4jHE6lL2YWoeLkgq
